@@ -1,5 +1,10 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+- 🔭 I have graduated from NCEPU.
+- 🔭 I’m currently working on Tianjin University.
+- 🌱 I’m currently learning Federaetd learning and Social Network Mining.
+- 📫 How to reach me: lijunliang.ki@gmail.com.
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
