@@ -1,8 +1,6 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/CSDN-%40Cyril__KI-yellowgreen)](https://blog.csdn.net/Cyril_KI)![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40KI%E7%9A%84%E7%AE%97%E6%B3%95%E6%9D%82%E8%AE%B0-red)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true" />
-
 - 🔭 I have graduated from NCEPU.
 
 - 🔭 I’m currently working on Tianjin University.
@@ -10,6 +8,8 @@
 - 🌱 I’m currently learning about Social Network Mining, Federated Learning and Machine Learning.
 
 - 📫 How to reach me: lijunliang.ki@gmail.com.
+
+<img align="buttom" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true" />
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
