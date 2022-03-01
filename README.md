@@ -10,6 +10,8 @@
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
 <img align="buttom" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" />
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
