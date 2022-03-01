@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
-<img align="buttom" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true" />
+<img align="buttom" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" />
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
