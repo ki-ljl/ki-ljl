@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://img.shields.io/badge/CSDN-%40Cyril__KI-yellowgreen)](https://blog.csdn.net/Cyril_KI)![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40KI%E7%9A%84%E7%AE%97%E6%B3%95%E6%9D%82%E8%AE%B0-red)![](https://img.shields.io/badge/dynamic/json?color=black&label=followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dki-ljl)
+[![](https://img.shields.io/badge/CSDN-%40Cyril__KI-yellowgreen)](https://blog.csdn.net/Cyril_KI)![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40KI%E7%9A%84%E7%AE%97%E6%B3%95%E6%9D%82%E8%AE%B0-red)![](https://img.shields.io/github/followers/ki-ljl?style=social)![](https://img.shields.io/github/stars/ki-ljl?style=social)
 
 - 🔭 I have graduated from North China Electric Power University.
 
