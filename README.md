@@ -25,8 +25,11 @@
 
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+  <!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=ncepu-edm)](https://github.com/ki-ljl/ncepu-edm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=github-readme-stats)](https://github.com/ki-ljl/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=github-readme-stats)](https://github.com/ki-ljl/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=github-readme-stats)](https://github.com/ki-ljl/github-readme-stats) -->
   <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
