@@ -12,15 +12,16 @@
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
 
-<div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko&card_width=360" /></div>
-<div align="right"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&card_width=300" /> </div>
+<div align="center"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" width="90%"/></div>
 
-<div align="left"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" width=400 height=300/> </div>
-<div align="right"><img align="right" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width=400 height=300> </div>
+<div align="center"> <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko" width="90%"/> </div>
 
-<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width=600 height=150/></div>
+<div align="center"> <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" width="90%/> </div>
+<div align="center"><img align="middle" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width="90%> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" /> </div>
+<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="90%/></div>
+
+<div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
 <!--
