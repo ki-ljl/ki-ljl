@@ -21,6 +21,8 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" /> </div>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" /> </div>
+
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark"> </div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
