@@ -12,8 +12,8 @@
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
 <div align="center" dir="auto">
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" height="auto" width="45%"/>
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko" height="auto" width="45%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" height="auto" width="50%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
 </div>
 
 <div align="center" dir="auto">
@@ -25,7 +25,9 @@
 
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
