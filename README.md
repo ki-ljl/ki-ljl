@@ -16,25 +16,19 @@
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="50%"/>
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
 </div>
-
+<br>
 <!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="20%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl&theme=dark&hide_border=true" />
-  <img width="20%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<br/>
-<div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
-
-<br/>
-
-<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="90%/></div>
-  
-## My CSDN Stats
-
 <div align="center" dir="auto">
-<img align="middle" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" height="auto" width="45%">
+  <img width="15%" align="middle" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img width="60%" align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl&theme=dark&hide_border=true" />
+  <img width="15%" align="middle" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
+<br>
+<div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
+<br>
+<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="90%/></div> 
+<br>
+<div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" height="auto" width="80%"></div>
   
 ## My Skill Set
 <div align="center" dir="auto">  
