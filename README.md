@@ -27,17 +27,17 @@
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
 
 <br/>
+
 <div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="90%/></div>
+  
+## My CSDN Stats
 
-<br/>
-
-## CSDN Stats
 <div align="center" dir="auto">
 <img align="middle" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" height="auto" width="45%">
 </div>
-
+  
 ## My Skill Set
-<div align="center">  
+<div align="center" dir="auto">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
@@ -50,7 +50,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
-
   
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
