@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/CSDN-%40Cyril__KI-yellowgreen)](https://blog.csdn.net/Cyril_KI) ![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40KI%E7%9A%84%E7%AE%97%E6%B3%95%E6%9D%82%E8%AE%B0-red) 
-
 ![](https://img.shields.io/github/followers/ki-ljl?style=social) ![](https://img.shields.io/github/stars/ki-ljl?style=social)
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=ki-ljl.visitor-badge)
 
@@ -16,13 +15,12 @@
 <div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko&card_width=360" /></div>
 <div align="right"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&card_width=300" /> </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ki-ljl" /> </div>
+<div align="left"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" width=480 height=360/> </div>
+<div align="right"><img align="right" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width=480 height=360> </div>
+
+<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width=600 height=150/></div>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" /> </div>
-
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark"> </div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
 <!--
