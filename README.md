@@ -12,13 +12,13 @@
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
 <div align="center" dir="auto">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" height="auto" width="49%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko" height="auto" width="41%""/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko"/>
 </div>
 
 <div align="center" dir="auto">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" height="auto" width="45%"/>
-<img align="left" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" height="auto" width="45%">
+<img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" height="auto" width="45%"/>
+<img align="middle" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" height="auto" width="45%">
 </div>
                                                                                                            
 <div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="90%/></div>
