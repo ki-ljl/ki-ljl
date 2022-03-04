@@ -15,8 +15,8 @@
 <div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko&card_width=360" /></div>
 <div align="right"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&card_width=300" /> </div>
 
-<div align="left"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" width=480 height=360/> </div>
-<div align="right"><img align="right" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width=480 height=360> </div>
+<div align="left"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ki-ljl" width=400 height=300/> </div>
+<div align="right"><img align="right" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width=400 height=300> </div>
 
 <div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width=600 height=150/></div>
 
