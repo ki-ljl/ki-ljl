@@ -12,7 +12,16 @@
 
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
-<img align="buttom" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" />
+
+<div align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko&card_width=420" /></div>
+
+<div align="right"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&card_width=420" /> </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ki-ljl" /> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark"> </div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ki-ljl&repo=node2vec)](https://github.com/ki-ljl/node2vec) -->
 <!--
