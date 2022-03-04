@@ -12,8 +12,8 @@
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
 <div align="center" dir="auto">
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko"/>
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&theme=merko" height="auto" width="45%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko" height="auto" width="45%"/>
 </div>
 
 <div align="center" dir="auto">
