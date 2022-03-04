@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Tianjin University.
 
-- 🌱 I’m currently learning about Social Network Mining, Federated Learning and Machine Learning.
+- 🌱 I taught myself Machine Learning during my undergraduate period. My undergraduate graduation design was about Federated learning. My postgraduate research direction is about Social Network Mining.
 
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 
