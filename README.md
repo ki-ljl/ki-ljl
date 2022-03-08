@@ -26,7 +26,7 @@
 <br>
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
 <br>
-<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="90%/></div> 
+<div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="100%/></div> 
 
 ## My CSDN Stats
 <div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width="90%"></div>
