@@ -31,7 +31,7 @@
 ## My CSDN Stats
 <div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width="90%"></div>
   
-## My Skill Set
+## My Skill Sets
 <div align="center" dir="auto">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
