@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Tianjin University.
 
-- 🌱 I taught myself Machine Learning during my undergraduate period. My undergraduate graduation design was about Federated learning. My postgraduate research direction is about Social Network Mining.
+- 🌱 My undergraduate research focused on electric load forecasting and federated learning. My current research is Graph Machine Learning.
 
-- 📫 How to reach me: lijunliang.ki@gmail.com.
+- 📫 How to reach me: lijunliang@tju.edu.cn.
 
 ## GitHub Stats
 <div align="center" dir="auto">
