@@ -10,11 +10,19 @@
 
 - 📫 How to reach me: lijunliang@tju.edu.cn.
 
+## Recent Publications
+- **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Public Opinion Field Effect Fusion in Representation Learning for Trending Topics Diffusion (**NeurIPS 2023**)
+- **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Hierarchical Label Inference Incorporating Attribute Semantics in Attributed Networks (**ICDM 2023**)
+- **J. Li**, R. Jiao, S. Wang, and H. He, An Ensemble Load Forecasting Model Based on Online Error Updating (Proceedings of the CSEE)
+
+<!--
 ## GitHub Stats
 <div align="center" dir="auto">
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="50%"/>
 <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki-ljl&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
 </div>
+-->
+
 <br>
 <!-- 连续提交代码天数记录 -->
 <!-- <div align="center" dir="auto">
@@ -23,12 +31,14 @@
   <img width="15%" align="middle" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div> -->
 <br>
+
 <!--
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
 <br>
 <div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="100%/></div> 
 -->
 
+<!--
 ## My CSDN Stats
 <div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width="90%"></div>
   
@@ -46,7 +56,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
-  
+-->
+
 <!--
 **ki-ljl/ki-ljl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
