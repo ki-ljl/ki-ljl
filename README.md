@@ -13,6 +13,7 @@
 ## Recent Publications
 - **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Public Opinion Field Effect Fusion in Representation Learning for Trending Topics Diffusion (**NeurIPS 2023**)
 - **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Hierarchical Label Inference Incorporating Attribute Semantics in Attributed Networks (**ICDM 2023**)
+- **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Hierarchical Label Inference in Dynamic Attributed Networks via Label Semantics (**Under Peer Review (TKDE 2024)**)
 - **J. Li**, R. Jiao, S. Wang, and H. He, An Ensemble Load Forecasting Model Based on Online Error Updating (Proceedings of the CSEE)
 - R. Jiao, J. Chu, **J. Li**, and W. Zhang, Personalized Federated Multi-region Load Forecasting Method Based on Data Decomposition (Proceedings of the CSEE)
 <!--
