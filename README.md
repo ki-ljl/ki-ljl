@@ -2,19 +2,19 @@
 [![](https://img.shields.io/badge/CSDN-%40Cyril__KI-yellowgreen)](https://blog.csdn.net/Cyril_KI) [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40KI%E7%9A%84%E7%AE%97%E6%B3%95%E6%9D%82%E8%AE%B0-red)](https://img-blog.csdnimg.cn/7f70eb88bb3949ccb33b84feb8a53f10.jpg) <a href="https://stackoverflow.com/users/18517317/ki-ljl"><img src="https://img.shields.io/stackexchange/stackoverflow/r/18517317?logo=StackOverflow&color=important&label=StackOverflow"/></a>
 ![](https://img.shields.io/github/followers/ki-ljl?style=social) ![](https://img.shields.io/github/stars/ki-ljl?style=social) 
 
-- 🔭 I have graduated from North China Electric Power University.
+- 🔭 I received my bachelor's and master's degrees from North China Electric Power University and Tianjin University respectively.
 
-- 🔭 I’m currently working on Tianjin University.
+- 🔭 I'm currently working on the research related to the ERNIE Bot at Baidu.
 
-- 🌱 My undergraduate research focused on electric load forecasting and federated learning. My current research is Graph Machine Learning.
+- 🌱 My research includes LLM, RAG, Agent, Graph Machine Learning and Time Series Forecasting.
 
 - 📫 How to reach me: lijunliang@tju.edu.cn.
 
 ## Recent Publications
 - **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Public Opinion Field Effect Fusion in Representation Learning for Trending Topics Diffusion (**NeurIPS 2023**)
+- **J. Li**, Y. Yang, Y. Zhang, Q. Hu, A. Zhao, and H. Gao, Public Opinion Field Effect and Hawkes Process Join Hands for Information Popularity Prediction (**AAAI 2025**)
 - **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Hierarchical Label Inference Incorporating Attribute Semantics in Attributed Networks (**ICDM 2023**)
 - **J. Li**, Y. Yang, Q. Hu, X. Wang, and H. Gao, Hierarchical Label Inference in Dynamic Attributed Networks via Label Semantics (**Under Peer Review (TOIS 2024)**)
-- **J. Li**, Y. Yang, Y. Zhang, Q. Hu, A. Zhao, and H. Gao, Public Opinion Field Effect and Hawkes Process Join Hands for Information Popularity Prediction (**Under Peer Review (AAAI 2025)**)
 - **J. Li**, R. Jiao, S. Wang, and H. He, An Ensemble Load Forecasting Model Based on Online Error Updating (Proceedings of the CSEE)
 - R. Jiao, J. Chu, **J. Li**, and W. Zhang, Personalized Federated Multi-region Load Forecasting Method Based on Data Decomposition (Proceedings of the CSEE)
 <!--
